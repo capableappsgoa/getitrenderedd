@@ -3029,7 +3029,7 @@ footer
 .mil-footer-menu ul li a:hover {
   -webkit-transform: translateX(10px);
           transform: translateX(10px);
-  color: rgb(255, 152, 0);
+  color: rgb(65, 229, 232);
 }
 @media screen and (max-width: 768px) {
   .mil-footer-menu ul li a {
@@ -3037,7 +3037,7 @@ footer
   }
 }
 .mil-footer-menu ul li.mil-active a {
-  color: rgb(255, 152, 0);
+  color: rgb(65, 229, 232);
 }
 .mil-footer-menu ul li.mil-active a:hover {
   -webkit-transform: none;
